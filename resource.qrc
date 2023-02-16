@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/icons/eraser_icon.png</file>
+        <file>images/icons/scissors_icon.png</file>
+        <file>images/icons/astronaut_icon.png</file>
+        <file>images/icons/cemetery_icon.png</file>
+        <file>images/icons/bicycle_icon.png</file>
+        <file>images/icons/squirrel_icon.png</file>
+        <file>images/icons/menu_icon.png</file>
+        <file>images/icons/play_icon.png</file>
+        <file>images/icons/record_icon.png</file>
+    </qresource>
+    <qresource prefix="/logos">
+        <file>images/logos/sprite_words_light_logo.png</file>
+    </qresource>
+</RCC>
